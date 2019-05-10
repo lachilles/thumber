@@ -1,5 +1,5 @@
 # thumber
-Specification for a simple thumbnail generation service
+An exercise in building a simple python thumbnail generation service
 
 ### Input video file details 
   A well-formed video file in a container format that `ffmpeg` can read from AWS S3.  You can use any input files you choose for testing.
